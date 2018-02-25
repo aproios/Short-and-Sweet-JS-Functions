@@ -18,4 +18,4 @@ function underToCamel(str){
   
 }
 
-console.log(underToCamel("Camel_Case_to___Under_scorE"));
+// Test it out: // console.log(underToCamel("Camel_Case_to___Under_scorE"));
