@@ -1,3 +1,8 @@
+/* "CountdownClock.js" creates a countdown timer that supports years.
+
+  Ex: "26 y, 265 d, 4 h, 56 m, 34 s" until "Election Day 2044" */
+
+
 // Set the date you're counting down to
 var countDownDate = new Date("Nov 4, 2044 00:00:25").getTime();
 
